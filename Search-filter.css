@@ -1,0 +1,17 @@
+.search {
+    align-items: center;
+    justify-content: center;
+    line-height: 50px; 
+   font-size: 20px; 
+}
+.search input {
+    margin-top: -30px;
+    margin-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 10px;
+    width: 290px;
+    height: 40px;
+    border-radius: 50px;
+    border-color: red;
+    font-size: 20px;
+}
